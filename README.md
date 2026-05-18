@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6aff&height=200&section=header&text=Cloud%20Computing&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Hello%20World%20React%20App&descAlignY=55&descSize=20&descColor=ffffffcc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6aff&height=200&section=header&text=Cloud%20Computing&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=By%20Ihsan%20Ramdani%20241011401091&descAlignY=55&descSize=20&descColor=ffffffcc" width="100%"/>
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 <br/>
 
-**[🚀 Live Demo](https://USERNAME.github.io/Cloud-Computing/)** • **[📁 Source Code](https://github.com/USERNAME/Cloud-Computing)**
+**[🚀 Live Demo](https://ashnokianvirtamen.github.io/Cloud-Computing/)** • **[📁 Source Code](https://github.com/ashnokianvirtamen/Cloud-Computing)**
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ## ☁️ Tentang Proyek
 
-Proyek ini merupakan bagian dari tugas mata kuliah **Cloud Computing** yang bertujuan untuk memahami konsep *deployment* aplikasi web ke platform cloud. Aplikasi dibangun menggunakan **React + Vite** dan di-deploy secara otomatis ke **GitHub Pages** menggunakan **GitHub Actions** sebagai CI/CD pipeline.
+Proyek ini merupakan bagian dari tugas mata kuliah **Cloud Computing** yang bertujuan untuk memahami konsep *deployment* aplikasi web ke platform cloud. Aplikasi ini di-deploy secara otomatis ke **GitHub Pages** menggunakan **GitHub Actions** sebagai CI/CD pipeline.
 
 ```
 Kode ditulis → Push ke GitHub → GitHub Actions build otomatis → Live di cloud ☁️
@@ -70,7 +70,7 @@ Kode ditulis → Push ke GitHub → GitHub Actions build otomatis → Live di cl
                         ▼
 ┌─────────────────────────────────────────────────────────┐
 │                   GitHub Pages (Cloud)                  │
-│         https://USERNAME.github.io/Cloud-Computing/     │
+│         https://ashnokianvirtamen.github.io/Cloud-Computing/     │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -123,7 +123,7 @@ Cloud-Computing/
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/USERNAME/Cloud-Computing.git
+git clone https://github.com/ashnokianvirtamen/Cloud-Computing.git
 cd Cloud-Computing
 
 # 2. Install dependencies
